@@ -2,5 +2,5 @@
   name: commitlint
   description: Commitlint hook
   language: node
-  entry: commitlint --edit
+  entry: npx commitlint --edit
   verbose: true
